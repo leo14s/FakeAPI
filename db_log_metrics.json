@@ -1,0 +1,60 @@
+{
+    "performance_data":[
+        {
+            "project_name": "A",
+            "gpu_avg": 0.7,
+            "gpu_peek": 0.9,
+            "cpu_avg": 0.3,
+            "cpu_peek": 1.0,
+            "megadeb_version": "1.0"
+        },
+        {
+            "project_name": "A",
+            "gpu_avg": 0.7,
+            "gpu_peek": 0.9,
+            "cpu_avg": 0.3,
+            "cpu_peek": 1.0,
+            "megadeb_version": "2.0"
+        },
+        {
+            "project_name": "B",
+            "gpu_avg": 0.3,
+            "gpu_peek": 0.6,
+            "cpu_avg": 0.4,
+            "cpu_peek": 0.9,
+            "megadeb_version": "1.0"
+        },
+        {
+            "project_name": "B",
+            "gpu_avg": 0.2,
+            "gpu_peek": 0.5,
+            "cpu_avg": 0.8,
+            "cpu_peek": 1.0,
+            "megadeb_version": "2.0"
+        },
+        {
+            "project_name": "C",
+            "gpu_avg": 0.1,
+            "gpu_peek": 0.3,
+            "cpu_avg": 0.8,
+            "cpu_peek": 1.0,
+            "megadeb_version": "1.0"
+        },
+        {
+            "project_name": "C",
+            "gpu_avg": 0.7,
+            "gpu_peek": 0.9,
+            "cpu_avg": 0.3,
+            "cpu_peek": 1.0,
+            "megadeb_version": "2.0"
+        },
+        {
+            "project_name": "D",
+            "gpu_avg": 0.2,
+            "gpu_peek": 0.9,
+            "cpu_avg": 0.1,
+            "cpu_peek": 0.9,
+            "megadeb_version": "1.0"
+        }
+    ]
+}
